@@ -374,7 +374,7 @@ body {
 		width: 250px;
 		flex-direction: column;
 		position: absolute;
-		right: 0;
+		right: 30px;
 		top: 0;
 		background-color: #9d2929;
 		padding-bottom: 40px;
